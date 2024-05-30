@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8": {
+      "PluginInterface1/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.8",
+        "compile": {
+          "bin/placeholder/PluginInterface1.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/PluginInterface1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PluginInterface1/1.0.0": {
+      "type": "project",
+      "path": "../PluginInterface1/PluginInterface1.csproj",
+      "msbuildProject": "../PluginInterface1/PluginInterface1.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8": [
+      "PluginInterface1 >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Владислав\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Владислав\\Desktop\\PluginArchitectureApp\\SamplePlugin1\\SamplePlugin1.csproj",
+      "projectName": "SamplePlugin1",
+      "projectPath": "C:\\Users\\Владислав\\Desktop\\PluginArchitectureApp\\SamplePlugin1\\SamplePlugin1.csproj",
+      "packagesPath": "C:\\Users\\Владислав\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Владислав\\Desktop\\PluginArchitectureApp\\SamplePlugin1\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Владислав\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net48"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "projectReferences": {
+            "C:\\Users\\Владислав\\Desktop\\PluginArchitectureApp\\PluginInterface1\\PluginInterface1.csproj": {
+              "projectPath": "C:\\Users\\Владислав\\Desktop\\PluginArchitectureApp\\PluginInterface1\\PluginInterface1.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net48": {
+        "targetAlias": "net48",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

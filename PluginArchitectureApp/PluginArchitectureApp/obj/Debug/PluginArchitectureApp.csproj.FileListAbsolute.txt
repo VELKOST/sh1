@@ -1,0 +1,13 @@
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginArchitectureApp.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginArchitectureApp.MainForm.resources
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginArchitectureApp.Properties.Resources.resources
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginArchitectureApp.csproj.GenerateResource.cache
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginArchitectureApp.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\bin\Debug\PluginArchitectureApp.exe.config
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\bin\Debug\PluginArchitectureApp.exe
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\bin\Debug\PluginArchitectureApp.pdb
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\bin\Debug\PluginInterface1.dll
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\bin\Debug\PluginInterface1.pdb
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginAr.9C490D26.Up2Date
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginArchitectureApp.exe
+C:\Users\Владислав\Desktop\PluginArchitectureApp\PluginArchitectureApp\obj\Debug\PluginArchitectureApp.pdb

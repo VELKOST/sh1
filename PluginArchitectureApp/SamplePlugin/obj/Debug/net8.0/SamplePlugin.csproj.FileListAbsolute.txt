@@ -1,0 +1,16 @@
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\bin\Debug\net8.0\SamplePlugin.deps.json
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\bin\Debug\net8.0\SamplePlugin.dll
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\bin\Debug\net8.0\SamplePlugin.pdb
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\bin\Debug\net8.0\PluginInterface.dll
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\bin\Debug\net8.0\PluginInterface.pdb
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.csproj.AssemblyReference.cache
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.AssemblyInfoInputs.cache
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.AssemblyInfo.cs
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.csproj.CoreCompileInputs.cache
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.sourcelink.json
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePl.36C83407.Up2Date
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.dll
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\refint\SamplePlugin.dll
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\SamplePlugin.pdb
+C:\Users\Владислав\Desktop\PluginArchitectureApp\SamplePlugin\obj\Debug\net8.0\ref\SamplePlugin.dll
